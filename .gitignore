@@ -285,6 +285,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Allow Java config file
-!src/main/resources/application.properties
+src/main/resources/application.properties
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,macos,intellij,eclipse,java,maven
